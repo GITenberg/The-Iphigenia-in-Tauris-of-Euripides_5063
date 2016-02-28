@@ -1,0 +1,40 @@
+_repo: The-Iphigenia-in-Tauris-of-Euripides_5063
+contributor:
+  translator:
+    agent_name: Murray, Gilbert
+    aliases:
+    - Murray, George Gilbert Aime
+    - Murray, George Gilbert Aimé
+    birthdate: 1866
+    deathdate: 1957
+    gutenberg_agent_id: '1681'
+    url: http://www.gutenberg.org/2009/agents/1681
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Murray
+creator:
+  author:
+    agent_name: Euripides
+    alias: Ευριπίδης
+    deathdate: -406
+    gutenberg_agent_id: '1680'
+    url: http://www.gutenberg.org/2009/agents/1680
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Euripides
+    - http://el.wikipedia.org/wiki/%CE%95%CF%85%CF%81%CE%B9%CF%80%CE%AF%CE%B4%CE%B7%CF%82
+description: Translated into English rhyming verse with explanatory notes by Gilbert
+  Murray.
+gutenberg_bookshelf:
+- Classical Antiquity
+- Opera
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5063'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Iphigenia (Mythological character) -- Drama'
+- !lcc 'PA'
+title: The Iphigenia in Tauris of Euripides
+url: http://www.gutenberg.org/ebooks/5063
